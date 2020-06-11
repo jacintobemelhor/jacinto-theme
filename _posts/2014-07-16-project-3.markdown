@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tutorials
+title: First Access
 modal-id: 3
 img: circus.png
-url: docs/
+url: first/
 description: Documentation of the project.
 ---
