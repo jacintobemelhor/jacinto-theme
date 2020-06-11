@@ -1,7 +1,7 @@
 # Site settings
 title: Jacinto 2.0
 email: your-email@domain.com
-url: https://santanche.github.io/freelancer-theme
+url: https://jacintobemelhor.github.io/jacinto-theme
 description: "Testing Freelancer page for the Jacinto 2.0."
 keywords: "jacinto, theme"
 skills: "Authoring - Learning"
@@ -44,7 +44,7 @@ social:
   - title: facebook
     url:
   - title: github
-    url: http://github.com/santanche/freelancer-theme
+    url: http://github.com/jacintobemelhor/jacinto-theme
 
 # Postal address (add as many lines as necessary)
 address:
