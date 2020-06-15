@@ -4,6 +4,6 @@ title: Authoring Space
 modal-id: 2
 img: cabin.png
 alt: image-alt
-url: https://harena.ds4h.org/space/author/
+url: author
 description: Authoring space where you can create clinical cases.
 ---

@@ -4,7 +4,7 @@ title: Learning Space
 modal-id: 1
 img: submarine.png
 alt: image-alt
-url: https://harena.ds4h.org/space/player/
+url: player
 category: Learning Space
 description: Learning space where you can solve clinical cases.
 ---

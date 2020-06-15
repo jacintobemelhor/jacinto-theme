@@ -3,6 +3,6 @@ layout: default
 title: First Access
 modal-id: 3
 img: circus.png
-url: first/
+url: first
 description: Documentation of the project.
 ---
