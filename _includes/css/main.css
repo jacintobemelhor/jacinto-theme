@@ -79,6 +79,10 @@ hr.star-primary:after {
 .img-centered {
     margin: 0 auto;
 }
+.text-style{
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
 
 header {
     text-align: center;
